@@ -26,3 +26,7 @@
 - 必要な技術的情報はすべてClaudeCodeから取得する
 - 大きな変更の前には必ずバックアップのコミットを
   ClaudeCodeに指示すること
+
+## 作業者向けマニュアル
+作業者が困った場合はMANUAL.mdを参照するよう案内すること。
+URL：https://raw.githubusercontent.com/square1995/pronunciation-audio/main/MANUAL.md
